@@ -13,4 +13,4 @@ https://sessions21.github.io/run-buddy/
 ## Contribution
 Made with ❤ by Scott Nichols
 
-### ©️2019 Run Buddy, Inc. x 3
+### ©️2019 Run Buddy, Inc. x 2
