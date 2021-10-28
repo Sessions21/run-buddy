@@ -1,4 +1,4 @@
-# run-buddy Inc.
+# run-buddy
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ https://sessions21.github.io/run-buddy/
 ## Contribution
 Made with ❤ by Scott Nichols
 
-### ©️2019 Run Buddy, Inc. x 2
+### ©️2019 Run Buddy, Inc.
